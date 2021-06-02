@@ -5,7 +5,7 @@
 - In this notebook, we are going to predict whether a person's income is above 50k or below 50k using various features like age, education, and occupation.
 
 ## WebApp: 
-> Link: https://adult-income-prediction.herokuapp.com/
+> Link: https://chandan-adult-income-predic.herokuapp.com/
 
 ## Dataset:
 | Column ID |   Column Name  | Data type | Values type |          Description         |
